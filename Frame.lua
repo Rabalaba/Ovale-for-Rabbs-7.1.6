@@ -219,7 +219,9 @@ do
 				-- Refresh the action button for the node.
 				if profile.apparence.enableIcons then
 					self:UpdateActionIcon(state, node, self.actions[k], element, start)
-                    --Start Rabbs Injection
+                    
+				end
+                --Start Rabbs Injection
                 
                 if profile.apparence.enableIcons then
 					self:UpdateActionIcon(state, node, self.actions[k], element, start)
@@ -305,8 +307,6 @@ do
                             end)
                         end
                     end
-				end
-				end
 				if profile.apparence.spellFlash.enabled then
 					OvaleSpellFlash:Flash(state, node, element, start)
 				end
