@@ -1,0 +1,119 @@
+tag b5d5ed324e40b1c00149899dd747916a04441136 7.1.6.3
+Author:	Sidoine De Wispelaere <sidoine@sidoine.net>
+Date:	Sun Feb 12 11:08:59 2017 +0100
+
+Add styling for remain text in the icon
+Add ItemRequire function
+Other fixes
+
+commit d9228c9d52a5845699f6460faa2f8ffb39dcb0bd
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Sun Feb 12 01:59:24 2017 +0100
+
+    Style the remains font text
+
+commit b973578772ef6a8c868bbfb84f1ee97a79282fc6
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Wed Feb 8 19:07:08 2017 +0100
+
+    SpellRechargeDuration
+    
+    only pruify when we ISB can be maintained
+
+commit d9228c9d52a5845699f6460faa2f8ffb39dcb0bd
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Sun Feb 12 01:59:24 2017 +0100
+
+    Style the remains font text
+
+commit b973578772ef6a8c868bbfb84f1ee97a79282fc6
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Wed Feb 8 19:07:08 2017 +0100
+
+    SpellRechargeDuration
+    
+    only pruify when we ISB can be maintained
+
+commit 6198807ee49cd76a7e2ad079f6f14d817bdbf868
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Tue Feb 7 12:49:39 2017 +0100
+
+    update to latest simc
+
+commit ab1b58b6d8811097fd793d75c15d938d5d88fd67
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Tue Feb 7 12:49:29 2017 +0100
+
+    obsolete simc translations
+
+commit f96dc9d2a7315e312040beb381326d043cea2a4d
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Tue Feb 7 12:49:14 2017 +0100
+
+    order talents
+
+commit 50ee575ff8adfa10c50e9d6a9486695744e6a611
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Tue Feb 7 12:01:28 2017 +0100
+
+    Update some tags for Frost DK
+
+commit cd7854f4b2fe5c5c0f5f411273dc6200f5f94df5
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Mon Feb 6 03:26:41 2017 +0100
+
+    copy/paste error
+
+commit 73fd56606d551828ab4c9fbef3df7eeaf3147ced
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Mon Feb 6 03:24:56 2017 +0100
+
+    itemId instead of spellId
+
+commit a0fce018c9665e7d4f0906f5811cc4b48b46df90
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Sun Feb 5 17:22:04 2017 +0100
+
+    introduce ItemRequire function
+    
+    only make "coagulated_nightwell_residue" trinket usable when we have at
+    least 1 stack of the buff
+
+commit d254a504b1be9f83a412609260153e7ea356e34b
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Sat Feb 4 04:54:18 2017 +0100
+
+    print 'range' for infernal strike melee check
+
+commit 89e93664184e64cf0382388f16e608b302373e61
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Sat Feb 4 02:06:46 2017 +0100
+
+    infernal strike tweeks for AOE
+
+commit 5866b1263975a121ac37d374900417c44efe05fc
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Fri Feb 3 01:15:19 2017 +0100
+
+    Add all T19 sets
+    
+    fixes #239
+
+commit 7a842060a6479912c8d660d818f9ad34afc07f50
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Thu Feb 2 19:32:28 2017 +0100
+
+    exploding keg back to ST
+
+commit 7a842060a6479912c8d660d818f9ad34afc07f50
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Thu Feb 2 19:32:28 2017 +0100
+
+    exploding keg back to ST
+
+commit 34945b4b78065e94ed8e3f8ea57895cfdd43aaea
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Thu Feb 2 19:32:18 2017 +0100
+
+    range check higher prio
+
